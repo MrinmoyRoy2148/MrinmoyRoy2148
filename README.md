@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mrinmoy Roy</h1>
+<h1 align="center">I'm Mrinmoy Roy</h1>
 <h3 align="center">💻 Programmer</h3>
 
 <p align="center">
