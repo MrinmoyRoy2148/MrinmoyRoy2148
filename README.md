@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=C%2B%2B+Learner;Problem+Solver&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="anime coding gif">
+</p>
+
 ---
 
 ## 🚀 Skills
@@ -16,10 +20,9 @@
 ---
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MrinmoyRoy2148&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
+![Streak](https://streak-stats.demolab.com?user=MrinmoyRoy2148&theme=tokyonight)
